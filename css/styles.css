@@ -20,11 +20,15 @@ z-index: 999;
     margin:10px 0;
 }
 .nav{
-    color: #4a4a4a;
+    
     font-size:16px;
     list-style-type: none;
     display:flex;
     margin-bottom: 13px;
+}
+.link{
+    text-decoration: none;
+    color: #4a4a4a;
 }
 .list_one{
     margin-right:10px;
