@@ -20,7 +20,6 @@ z-index: 999;
     margin:10px 0;
 }
 .nav{
-    
     font-size:16px;
     list-style-type: none;
     display:flex;
@@ -40,7 +39,7 @@ z-index: 999;
 .container{
 background-color: #3CDBC0;
  position:relative;
- height: 86.7vh;
+ height: 86.6vh;
  transform: translateY(105.86px);
  display:flex;
  justify-content: center;
